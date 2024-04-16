@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oddbyte
-- 🌱 I’m currently learning: how to hack my dell chromebook 5190
+- 🌱 I’m currently learning: XSS attacks
 - 📫 How to reach me: Discord `@oddbyte`
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a person
