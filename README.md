@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oddbyte
-- 🌱 I’m currently making: A private minrcraft client with my friend @ceptea
+- 🌱 I’m currently making: A private minrcraft client with my friend [@ceptea](https://github.com/Ceptea/Ceptea)
 - 📫 How to reach me: Discord `@oddbyte`
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a person
