@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oddbyte
 - 🌱 Visit my website: [oddbyte.dev](https://oddbyte.dev)
-- 👨‍💻 I’m currently making: A private spigot backdoor plugin with my friend [@ceptea](https://github.com/Ceptea/)
+- 👨‍💻 I’m currently making: A app that lets linux users run unsafe code without worrying about it gaining perms.
 - 📫 How to reach me: Discord `@oddbyte`
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a person
