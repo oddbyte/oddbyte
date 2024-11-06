@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oddbyte
 - 🌱 Visit my website: [oddbyte.dev](https://oddbyte.dev)
-- 👨‍💻 I’m currently making: A app that lets linux users run unsafe code without worrying about it gaining perms.
+- 👨‍💻 I’m currently working on: my website.
 - 📫 How to reach me: Discord `@oddbyte`
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a person
