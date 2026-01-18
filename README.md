@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Oddbyte
-- 🌱 Visit my website: [oddbyte.dev](https://oddbyte.dev)
-- 👨‍💻 I’m currently working on: my website.
-- 📫 How to reach me: Discord `@oddbyte`
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I am a person
+# I AM MOVING TO https://oddbyte.dev/git
+# THIS ACCOUNT WILL ONLY BE USED TO SEND PRs AND Issues TO REPOS THAT ARE NOT MINE.
